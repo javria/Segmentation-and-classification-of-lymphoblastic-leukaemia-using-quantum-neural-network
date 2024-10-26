@@ -1,4 +1,4 @@
-The complete implementation code for the article "Segmentation and Classification of Lymphoblastic Leukemia Using Quantum Neural Network" has been uploaded to this repository.
+The study, "Segmentation and Classification of Lymphoblastic Leukemia Using Quantum Neural Network," has been published in the Expert Systems journal. This work is original and reproducible. The complete implementation, including code and results, is attached in this repository.
 
 Datasets: 
 1. All-IDB1 [ Blast/Non-Blast]
