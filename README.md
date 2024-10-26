@@ -5,5 +5,5 @@ Datasets:
 2. All-IDB1 [RGB Original Images/ Ground Masks]
           
 
-1. Segmentation of Lymphoblastic Leukemia using the proposed U-Net model
+1. Segmentation of Lymphoblastic Leukemia using the Proposed U-Net model
 2. Classification of Lymphoblastic Leukemia using the Quantum Neural Network
